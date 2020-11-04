@@ -1,14 +1,6 @@
-# Numérica - Compétences  
-*Project created and monitored by Cécile Maillard-Salin, David Caignaert and John Haimez.*   
+# Numérica - Compétences
 
-> Build Develop
+_Project created and monitored by Cécile Maillard-Salin, David Caignaert and John Haimez._
 
-
-- branch => master do not push in 
-
-- branch master => do not push in  
-- branch develop => template new branch and merge all branch in
-- all branch => work in and merge in branch develop 
-
- 
- 
+> Build in branch develop
+> Forbidden to work on this branch (master)
