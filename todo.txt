@@ -1,0 +1,7 @@
+//back
+- creer route validation compte avec mot de passe personnel
+- creer route pour renvoyer mail de creation de compte si le token est dépassé
+- creer password automatique, gerer un envoie par mail des infos (donner mot de passe)
+- faire route pour modifier mot de passe + middleware + documentation
+- faire route pour récuperer tous les users + middleware + documentation
+- faire les routes pour text global + middleware + documentation
