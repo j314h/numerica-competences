@@ -31,19 +31,19 @@
 
 ## Datas / vuex
 
-- ApiRom => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/ApiRom.md)
-- Companies => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Companies.md)
-- CurrentUser => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/CurrentUser.md)
-- Employees => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Employees.md)
-- Error => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Error.md)
-- Files => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Files.md)
-- Loading => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Loading.md)
-- ParamApp => [**File**]()
-- Roles => [**File**]()
-- Sectors => [**File**]()
-- States => [**File**]()
-- Trades => [**File**]()
-- ValidationAccount => [**File**]()
+- ApiRom => _For recover informations of work in API ROME of "Pole emploi"_
+- Companies => _For companies of user connecetd_
+- CurrentUser => _For user connected_
+- Employees => _For employees of companies of user connected or company selected_
+- Error => _Management a error of app_
+- Files => _For upload or get images and files for app_
+- Loading => _Management of times loading_
+- ParamApp => _For setting of app_
+- Roles => _Management of roles of user_
+- Sectors => _Management of roles of companies_
+- States => _Management of roles of user_
+- Trades => _Management of roles of companies_
+- ValidationAccount => _For first connection of user in web site numerica competences_
 
 ## Dependencies
 
