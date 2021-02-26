@@ -1,8 +1,14 @@
 ## State
 
 ```js
-//imgs of this app
-imgs: localStorage.getItem("imgs") ? JSON.parse(localStorage.getItem("imgs")) : [],
+//title of head band
+titleHeadBand: String,
+
+//booleen for sub menu appear or not
+isSubMenu: Boolean,
+
+//boolean for checked if company is selected
+outCompanySelected: Boolean,
 ```
 
 ## Getters
@@ -24,11 +30,11 @@ addImgs: Function (state, imgs) => void
 ## Actions
 
 ```js
-//get imgs of app
+//et imgs of app
 roads API => `files-i`
 getFiles: async Function => void
 
-//update imgs of app
+//et imgs of app
 roads API => `file/${targetUrl}`
 updateImg: async Function ({ data, targetUrl }) => void
 ```

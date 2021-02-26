@@ -1,0 +1,23 @@
+{
+  "name": "numerica_competences_documentation",
+  "version": "1.0.0",
+  "description": "_Project created and monitored by Cécile Maillard-Salin, David Caignaert and John Haimez._",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j314h/numerica_competences_documentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j314h/numerica_competences_documentation/issues"
+  },
+  "homepage": "https://github.com/j314h/numerica_competences_documentation#readme"
+}
