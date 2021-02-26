@@ -31,7 +31,7 @@
 
 ## Datas / vuex
 
-- ApiRom => [**FICHE**]()
-- Companies => [**FICHE**]()
-- CurrentUser => [**FICHE**]()
-- Employees => [**FICHE**]()
+- ApiRom => [**FICHE**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/ApiRom.md)
+- Companies => [**FICHE**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Companies.md)
+- CurrentUser => [**FICHE**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/CurrentUser.md)
+- Employees => [**FICHE**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Employees.md)
