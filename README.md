@@ -4,4 +4,4 @@ _Project created and monitored by Cécile Maillard-Salin, David Caignaert and Jo
 
 ## Work in progress
 
-[Documentation](https://github.com/j314h/numerica_competences_documentation/wiki)
+Acceder à la [Documentation](https://github.com/j314h/numerica_competences_documentation/wiki)
