@@ -31,7 +31,7 @@
 
 ## Datas / vuex
 
-- ApiRom => [**FICHE**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/ApiRom.md)
-- Companies => [**FICHE**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Companies.md)
-- CurrentUser => [**FICHE**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/CurrentUser.md)
-- Employees => [**FICHE**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Employees.md)
+- ApiRom => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/ApiRom.md)
+- Companies => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Companies.md)
+- CurrentUser => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/CurrentUser.md)
+- Employees => [**File**](https://github.com/j314h/numerica_competences_documentation/blob/master/fiches_vuex/Employees.md)
