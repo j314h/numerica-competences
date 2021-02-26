@@ -1,8 +1,8 @@
-# Numérica - Compétences
+# Numerica compétences documentations
 
 _Project created and monitored by Cécile Maillard-Salin, David Caignaert and John Haimez._
 
-> Build in branch develop
-> Forbidden to work on this branch (master)
+## Work in progress
 
-- **under build**
+- Documentation [FRONTEND]()
+- Documentation [BACKEND]()
