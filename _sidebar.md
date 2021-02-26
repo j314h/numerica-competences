@@ -1,23 +1,40 @@
-### [Home](home)
+## [Home](home)
 
-- [front end resume](./front-end-resume)
-- [vue-router](./vue-router)
-- [vuex](./vuex)
-  - [ApiRome](./vuex/vuex-api-rome)
-  - [Companies](./vuex/vuex-companies)
-  - [CurrentUser](./vuex/vuex-currentuser)
-  - [Employees](./vuex/vuex-employees)
-  - [Error](./vuex/vuex-error)
-  - [Files](./vuex/vuex-files)
-  - [Loading](./vuex/vuex-loading)
-  - [ParamApp](./vuex/vuex-paramapp)
-  - [Roles](./vuex/vuex-roles)
-  - [Sectors](./vuex/vuex-sectors)
-  - [States](./vuex/vuex-states)
-  - [Trades](./vuex/vuex-trades)
-  - [ValidateAccount](./vuex/validateaccount)
-- [dependencies](./dependencies)
+### [Front end resume](./front-end-resume)
+
+#### [Vue-router](./vue-router)
+
+#### [Vuex](./vuex)
+
+- [ApiRome](./vuex-api-rome)
+- [Companies](./vuex-companies)
+- [CurrentUser](./vuex-currentuser)
+- [Employees](./vuex-employees)
+- [Error](./vuex-error)
+- [Files](./vuex-files)
+- [Loading](./vuex-loading)
+- [ParamApp](./vuex-paramapp)
+- [Roles](./vuex-roles)
+- [Sectors](./vuex-sectors)
+- [States](./vuex-states)
+- [Trades](./vuex-trades)
+- [ValidateAccount](./validateaccount)
+
+#### [Dependencies](./dependencies)
 
 ---
 
-- [back end doc](./back-end-doc)
+### [Back end resume](./back-end-doc)
+
+#### [Roads](./roads)
+
+- [userRouter](./userRouter)
+- [uploadRouter](./uploadRouter)
+- [themeColorRouter](./themeColorRouter)
+- [stateRouter](./stateRouter)
+- [sectorRouter](./sectorRouter)
+- [roleRouter](./roleRouter)
+- [companiesRouter](./companiesRouter)
+- [authRouter](./authRouter)
+
+#### [Features](./features)
