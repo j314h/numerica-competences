@@ -1,5 +1,15 @@
 ## [Home](home)
 
+### [Manual](./manual)
+
+- [Connexion](./connexion)
+- [The roles](./the-roles)
+- [Dashboards](./dashboard)
+- [Setting](./dashboard)
+- [Create-Company](./dashboard)
+
+---
+
 ### [Front end resume](./front-end-resume)
 
 #### [Vue-router](./vue-router)
@@ -38,3 +48,7 @@
 - [authRouter](./authRouter)
 
 #### [Features](./features)
+
+#### [Dependencies](./dependencies)
+
+---
