@@ -1,11 +1,15 @@
 ### Connexion User
 
+---
+
 ```js
 // Go to the home page
 baseUrl/
 ```
 
 ![home-page](./img_manual/home-page.png)
+
+---
 
 ```js
 
@@ -21,6 +25,8 @@ MOT DE PASSE
 ```
 
 ![home-page](./img_manual/input-connexion.png)
+
+---
 
 - important information
 

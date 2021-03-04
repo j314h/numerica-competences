@@ -1,13 +1,19 @@
 ### The Rôles of users
 
+---
+
         Here in the settings section, you can see the
         roles of the logged in user on the right.
 
 ![home-page](./img_manual/info-user-role.png)
 
+---
+
 > We can see the "root", there are 5 different roles
 
 ![home-page](./img_manual/info-user-role-2.png)
+
+---
 
 - "root" => all access rights
 - "administrateur" => Create company, employee, job description, interview
