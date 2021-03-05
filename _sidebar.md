@@ -11,6 +11,7 @@
 - [Dashboard Company](./dashboard-company)
 - [Update Company](./update-company)
 - [Create employee](./create-employee)
+- [Business card](./create-employee)
 
 ---
 
