@@ -9,6 +9,7 @@
 - [Create-Company](./dashboard)
 - [Array of guest(root and administrateur users)](./array-of-client)
 - [Dashboard Company](./dashboard-company)
+- [Update Company](./update-company)
 
 ---
 
